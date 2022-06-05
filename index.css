@@ -46,19 +46,16 @@ a {
 
 .table-bordered {
     color: white;
-    /* margin: 50px;
-    padding: 50px; */
     border: 10px solid white;
 }
 
 .visit {
-    /* border: 5px solid white; */
     width: 50%;
     margin: 20px;
     margin-left: 25%;
     align-content: center;
     text-align: center;
-    background-color: rgba(46, 5, 85, 0.685);
+    background-color: rgba(1, 55, 105, 0.74);
     color: wheat;
     border-radius: 10px;
     font-size: 20px;
@@ -79,8 +76,6 @@ tr {
 }
 
 div {
-    /* border-style: solid;
-    border-color: black; */
     padding: 10px;
     margin: 10px;
 
